@@ -69,3 +69,9 @@ $ git push
 
 ## Create New Pull Request
 [Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+
+## Getting Updates
+
+```bash
+$ make update
+```
