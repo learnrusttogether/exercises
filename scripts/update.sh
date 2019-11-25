@@ -2,4 +2,4 @@
 
 git fetch upstream
 git checkout master
-git pull upstream master
+git merge upstream master
