@@ -3,4 +3,16 @@
 [[package]]
 name = "exercises"
 version = "0.1.0"
+dependencies = [
+ "factorial 0.1.0",
+ "hello-world 0.1.0",
+]
+
+[[package]]
+name = "factorial"
+version = "0.1.0"
+
+[[package]]
+name = "hello-world"
+version = "0.1.0"
 
