@@ -5,5 +5,5 @@
 
 Exercises in Rust
 
-[Contributing Guide Soon...]
+[Contributing And Exercise Guide Soon...]
 
