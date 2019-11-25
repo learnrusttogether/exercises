@@ -9,3 +9,4 @@ edition = "2018"
 [dependencies]
 hello-world = { path = "./hello-world" }
 factorial = { path = "./factorial" }
+fibonacci-sequence = { path = "./fibonacci-sequence" }
