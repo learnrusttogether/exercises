@@ -52,6 +52,8 @@ pub fn hello() -> &'static str {
 ### Run Tests from Repo Root
 Your current path: `~/exersices/`
 
+> **ATTENTION**: Uncomment Only Necessary Tests!
+
 ```bash
 $ make test
 ```
