@@ -56,7 +56,7 @@ Your current path: `~/exersices/`
 $ make test
 ```
 
-## Push Changes
+### Push Changes
 Your current path: `~/exersices/`
 
 ```bash
@@ -67,7 +67,7 @@ $ git commit -m "hello-world"
 $ git push
 ```
 
-## Create New Pull Request
+### Create New Pull Request
 [Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ## Getting Updates
