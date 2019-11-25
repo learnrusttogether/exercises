@@ -5,5 +5,69 @@
 
 Exercises in Rust
 
-[Contributing And Exercise Guide Soon...]
+## Getting started
 
+### Fork a Repo
+[Fork Tutorial](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+
+### Clone Repo
+
+```bash
+$ git clone https://github.com/learnrusttogether/exercises.git
+```
+
+### Go to Repo
+
+```bash
+$ cd exercises
+```
+
+### Uncomment Necessary Tests 
+
+Tests path: `./exercises/tests`
+
+```rust
+use hello_world::*;
+
+#[test]
+fn test_hello_world() {
+    assert_eq!("Hello, World!", hello());
+}
+```
+
+### Complete the Exercise 
+
+Tests path: `./exercises/tests`
+
+```rust
+pub fn hello() -> &'static str {
+    "Goodbye, World!"
+}
+
+->
+
+pub fn hello() -> &'static str {
+    "Hello, World!"
+}
+```
+
+### Run Tests from Repo Root
+Your current path: `~/exersices/`
+
+```bash
+$ make test
+```
+
+## Push Changes
+Your current path: `~/exersices/`
+
+```bash
+$ git add .
+
+$ git commit -m "hello-world"
+
+$ git push
+```
+
+## Create New Pull Request
+[Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
