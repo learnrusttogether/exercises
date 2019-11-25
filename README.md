@@ -75,3 +75,5 @@ $ git push
 ```bash
 $ make update
 ```
+
+If you have an alert `Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch.` read [this](https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially) tutorial.
