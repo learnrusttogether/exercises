@@ -10,7 +10,7 @@ Exercises in Rust
 ### Fork a Repo
 [Fork Tutorial](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-### Clone Repo
+### Clone a Repo
 
 ```bash
 $ git clone https://github.com/learnrusttogether/exercises.git
