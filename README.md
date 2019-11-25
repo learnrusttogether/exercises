@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/learnrusttogether/exercises.svg?branch=master)](https://travis-ci.org/learnrusttogether/exercises)
 [<img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram">](https://t.me/learnrusttogether)
 
-The project helps to expose your Rust code for review via pull requests. Complete exercises and get feedback from the community.
+The project helps to share your Rust code for review via pull requests. Complete exercises and get feedback from the community.
 
 ## Getting Started
 
