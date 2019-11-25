@@ -37,8 +37,6 @@ fn test_hello_world() {
 
 ### Complete the Exercise 
 
-Tests path: `./exercises/tests`
-
 ```rust
 pub fn hello() -> &'static str {
     "Goodbye, World!"
