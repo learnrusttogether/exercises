@@ -1,4 +1,6 @@
 pub fn factorial(n: i32) -> i32 {
+    let a: i32;
+    
     if n == 0 {
         return 1;
     }
