@@ -1,4 +1,4 @@
-// use factorial;
+// use factorial::*;
 
 // #[test]
 // fn test_factorial() {
@@ -17,6 +17,6 @@
 //     ];
 
 //     for i in &a {
-//         assert_eq!(i[1], factorial::factorial(i[0]));
+//         assert_eq!(i[1], factorial(i[0]));
 //     }
 // }
