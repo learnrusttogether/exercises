@@ -52,7 +52,7 @@ If the specific test is ignored use:
 $ cargo test some_test -- --ignored # from ./exercises dir
 ```
 
-## Submitting the solution
+## Submitting the Solution
 
 Create new Pull Request to [exercises](https://github.com/learnrusttogether/exercises) repo and get feedback from community members.
 
