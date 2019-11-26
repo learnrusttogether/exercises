@@ -6,7 +6,7 @@ A ["Hello, World!"](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program) pr
 
 The steps are simple:
 
-- Uncomment code in `./exercises/test/hello-world.rs`.
+- Uncomment code in `./exercises/tests/hello-world.rs`.
 - Write a function that returns the string "Hello, World!".
 - Run `make test` and sure that all test is passed.
 - Create Pull Request and get feedback from community members.
