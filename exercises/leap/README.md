@@ -32,7 +32,7 @@ Execute the tests with:
 $ make test # from root dir
 ```
 
-Open the tests source file which is located in the `exercisestests/<exercise>` directory
+Open the tests source file which is located in the `exercises/tests/<exercise>` directory
 and remove the `#[ignore]` flag from the necessary test and get the tests to pass.
 
 After you get the first test to pass, open the tests source file which is located in the `tests` directory
