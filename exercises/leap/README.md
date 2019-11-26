@@ -1,5 +1,7 @@
 # Leap
 
+[<img src="https://img.shields.io/badge/difficulty-easy-green">](https://t.me/learnrusttogether)
+
 Given a year, report if it is a leap year.
 
 The tricky thing here is that a leap year in the Gregorian calendar occurs:
