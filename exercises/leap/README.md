@@ -56,10 +56,6 @@ $ cargo test some_test -- --ignored # from ./exercises dir
 
 Create new Pull Request to [exercises](https://github.com/learnrusttogether/exercises) repo and get feedback from community members.
 
-## Source
-
-JavaRanch Cattle Drive, exercise 3 [http://www.javaranch.com/leap.jsp](http://www.javaranch.com/leap.jsp)
-
 ## Submitting Incomplete Solutions
 
 It's possible to submit an incomplete solution so you can get feedback to complete the exercise.
