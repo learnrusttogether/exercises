@@ -71,7 +71,6 @@ $ make test
 ```
 
 ### Push Changes
-Your current path: `~/exersices/`
 
 ```bash
 $ git add .
