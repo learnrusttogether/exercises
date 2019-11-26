@@ -1,4 +1,4 @@
-# Learn Rust Together
+# Learn Rust Together :crab: :squid: :shrimp: :fried_shrimp:
 
 [![Build Status](https://travis-ci.org/learnrusttogether/exercises.svg?branch=master)](https://travis-ci.org/learnrusttogether/exercises)
 [<img src="https://img.shields.io/badge/-Telegram-blue?logo=telegram">](https://t.me/learnrusttogether)
