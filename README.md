@@ -7,7 +7,7 @@ The project helps to share your Rust code for review via pull requests. Complete
 
 ## Background Requirements
 
-* Complete [Rust Programming Language for Beginners](https://www.udemy.com/course/the-rust-programming-language-for-beginners/) course or read [The Rust Programming Language](https://doc.rust-lang.org/book/).
+* Complete [The Rust Programming Language for Beginners](https://www.udemy.com/course/the-rust-programming-language-for-beginners/) course or read [The Rust Programming Language](https://doc.rust-lang.org/book/).
 * Enthusiasm and a willingness to take your Rust Programming skills to the next level.
 
 ## Available Exercises
