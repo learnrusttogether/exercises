@@ -7,18 +7,19 @@ The project helps to share your Rust code for review via pull requests. Complete
 
 ## Background Requirements
 
-* Complete [The Rust Programming Language for Beginners](https://www.udemy.com/course/the-rust-programming-language-for-beginners/) course or read [The Rust Programming Language](https://doc.rust-lang.org/book/).
-* Enthusiasm and a willingness to take your Rust Programming skills to the next level.
+- Complete [The Rust Programming Language for Beginners](https://www.udemy.com/course/the-rust-programming-language-for-beginners/) course or read [The Rust Programming Language](https://doc.rust-lang.org/book/).
+- Enthusiasm and a willingness to take your Rust Programming skills to the next level.
 
 ## Available Exercises
 
-* [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial)
-* [fibonacci-sequence](https://github.com/learnrusttogether/exercises/tree/master/exercises/fibonacci-sequence)
-* [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world)
+- [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial)
+- [fibonacci-sequence](https://github.com/learnrusttogether/exercises/tree/master/exercises/fibonacci-sequence)
+- [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world)
 
 ## Getting Started
 
 ### Fork a Repo
+
 [Fork Tutorial](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
 ### Clone a Repo
@@ -33,20 +34,22 @@ $ git clone https://github.com/learnrusttogether/exercises.git
 $ cd exercises
 ```
 
-### Uncomment Necessary Tests 
+### Unlock Necessary Tests
 
-Tests path: `./exercises/tests`
+Open the tests source file which is located in the `./exercises/tests` directory
+and remove the `#[ignore]` flag from the necessary test and get the tests to pass.
 
 ```rust
 use hello_world::*;
 
 #[test]
+#[ignore] // <- remove
 fn test_hello_world() {
     assert_eq!("Hello, World!", hello());
 }
 ```
 
-### Complete the Exercise 
+### Complete the Exercise
 
 ```rust
 pub fn hello() -> &'static str {
@@ -61,9 +64,8 @@ pub fn hello() -> &'static str {
 ```
 
 ### Run Tests from Repo Root
-Your current path: `~/exersices/`
 
-> **ATTENTION**: Uncomment Only Necessary Tests!
+Your current path: `~/exersices/`
 
 ```bash
 $ make test
@@ -80,6 +82,7 @@ $ git push
 ```
 
 ### Create New Pull Request
+
 [Pull Request Tutorial](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 ## Getting Updates
@@ -91,8 +94,9 @@ $ make update
 If you have an alert `Please enter a commit message to explain why this merge is necessary, especially if it merges an updated upstream into a topic branch.` read [this](https://stackoverflow.com/questions/19085807/please-enter-a-commit-message-to-explain-why-this-merge-is-necessary-especially) tutorial.
 
 ## Contributing a New Exercise
+
 [Soon...]
 
-## Community 
+## Community
 
 You can ask a question in our [Telegram](https://t.me/learnrusttogether) chat or the issues section.
