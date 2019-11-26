@@ -37,7 +37,7 @@ $ cd exercises
 ### Unlock Necessary Tests
 
 Open the tests source file which is located in the `./exercises/tests` directory
-and remove the `#[ignore]` flag from the necessary test and get the tests to pass.
+and remove the `#[ignore]` flag from the necessary tests and get the tests to pass.
 
 ```rust
 use hello_world::*;
