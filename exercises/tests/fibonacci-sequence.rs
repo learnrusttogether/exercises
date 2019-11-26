@@ -47,7 +47,7 @@ fn test_fibonacci_sequence() {
     ];
 
     for i in a.iter() {
-        let result: i32 = match fibonacci(i[0]) {
+        let result: u32 = match fibonacci(i[0]) {
             Some(number) => number,
             _ => {
                 println!("Invalid Number!");
