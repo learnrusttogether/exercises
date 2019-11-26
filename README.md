@@ -12,10 +12,10 @@ The project helps to share your Rust code for review via pull requests. Complete
 
 ## Available Exercises
 
-- [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world)
-- [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial)
-- [fibonacci-sequence](https://github.com/learnrusttogether/exercises/tree/master/exercises/fibonacci-sequence)
-- [leap](https://github.com/learnrusttogether/exercises/tree/master/exercises/leap)
+- [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world) [easy]
+- [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial) [easy]
+- [fibonacci-sequence](https://github.com/learnrusttogether/exercises/tree/master/exercises/fibonacci-sequence) [easy]
+- [leap](https://github.com/learnrusttogether/exercises/tree/master/exercises/leap) [easy]
 
 ## Getting Started
 
