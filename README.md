@@ -5,6 +5,13 @@
 
 The project helps to share your Rust code for review via pull requests. Complete exercises and get feedback from the community.
 
+## Available Exercises
+[Exercises Tutorial Soon...]
+
+* [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial)
+* [fibonacci-sequence](https://github.com/learnrusttogether/exercises/tree/master/exercises/fibonacci-sequence)
+* [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world)
+
 ## Getting Started
 
 ### Fork a Repo
