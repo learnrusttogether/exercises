@@ -45,15 +45,8 @@
 //         [39, 63245986],
 //         [40, 102334155],
 //     ];
-
-//     for i in a.iter() {
-//         let result: u32 = match fibonacci(i[0]) {
-//             Some(number) => number,
-//             _ => {
-//                 println!("Invalid Number!");
-//                 0
-//             }
-//         };
-//         assert_eq!(i[1], result);
+// 
+//     for i in a {
+//         assert_eq!(i[1], fibonacci(i[0]));
 //     }
 // }
