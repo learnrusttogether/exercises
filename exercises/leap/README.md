@@ -29,7 +29,7 @@ You may use the [`arithmetic remainder` operator](https://doc.rust-lang.org/book
 Execute the tests with:
 
 ```bash
-$ make test // from root dir
+$ make test # from root dir
 ```
 
 Open the tests source file which is located in the `exercisestests/<exercise>` directory
@@ -43,13 +43,13 @@ Continue, until you pass every test.
 To run a specific test, for example `some_test`, you can use:
 
 ```bash
-$ cargo test some_test // from ./exercises dir
+$ cargo test some_test # from ./exercises dir
 ```
 
 If the specific test is ignored use:
 
 ```bash
-$ cargo test some_test -- --ignored // from ./exercises dir
+$ cargo test some_test -- --ignored # from ./exercises dir
 ```
 
 ## Submitting the solution
