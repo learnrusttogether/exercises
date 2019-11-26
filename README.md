@@ -10,6 +10,15 @@ The project helps to share your Rust code for review via pull requests. Complete
 - Complete [The Rust Programming Language for Beginners](https://www.udemy.com/course/the-rust-programming-language-for-beginners/) course or read [The Rust Programming Language](https://doc.rust-lang.org/book/).
 - Enthusiasm and a willingness to take your Rust Programming skills to the next level.
 
+## Exercise Levels Labels
+
+Easy -> :green_book:
+
+Medium -> :orange_book:
+
+Hard -> :closed_book:
+
+
 ## Available Exercises
 
 - [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world) :green_book:
