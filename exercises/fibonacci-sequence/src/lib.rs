@@ -1,3 +1,3 @@
-pub fn fibonacci(_n: i32) -> Option<i32> {
+pub fn fibonacci(_n: u32) -> Option<u32> {
     None
 }
