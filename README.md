@@ -14,7 +14,9 @@ The project helps to share your Rust code for review via pull requests. Complete
 
 Exercises have three difficulty levels:
 
-Easy -> :shrimp: Medium -> :squid: Hard -> :crab:
+Easy | Medium | Hard
+--- | --- | ---
+:shrimp: | :squid: | :crab:
 
 ### Available:
 
