@@ -10,17 +10,13 @@ The project helps to share your Rust code for review via pull requests. Complete
 - Complete [The Rust Programming Language for Beginners](https://www.udemy.com/course/the-rust-programming-language-for-beginners/) course or read [The Rust Programming Language](https://doc.rust-lang.org/book/).
 - Enthusiasm and a willingness to take your Rust Programming skills to the next level.
 
-## Available Exercises
+## Exercises List
 
-### Exercise Levels Labels
+Exercises have three difficulty levels:
 
-Easy -> :shrimp:
+Easy -> :shrimp: Medium -> :squid: Hard -> :crab:
 
-Medium -> :squid:
-
-Hard -> :crab:
-
----
+### Available:
 
 - [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world) :fried_shrimp:
 - [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial) :shrimp:
