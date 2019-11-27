@@ -14,18 +14,18 @@ The project helps to share your Rust code for review via pull requests. Complete
 
 ### Exercise Levels Labels
 
-Easy -> :green_book:
+Easy -> :shrimp:
 
-Medium -> :orange_book:
+Medium -> :squid:
 
-Hard -> :closed_book:
+Hard -> :crab:
 
 ---
 
-- [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world) :green_book:
-- [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial) :green_book:
-- [fibonacci-sequence](https://github.com/learnrusttogether/exercises/tree/master/exercises/fibonacci-sequence) :green_book:
-- [leap](https://github.com/learnrusttogether/exercises/tree/master/exercises/leap) :green_book:
+- [hello-world](https://github.com/learnrusttogether/exercises/tree/master/exercises/hello-world) :fried_shrimp:
+- [factorial](https://github.com/learnrusttogether/exercises/tree/master/exercises/factorial) :shrimp:
+- [fibonacci-sequence](https://github.com/learnrusttogether/exercises/tree/master/exercises/fibonacci-sequence) :shrimp:
+- [leap](https://github.com/learnrusttogether/exercises/tree/master/exercises/leap) :shrimp:
 
 ## Getting Started
 
