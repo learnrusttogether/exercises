@@ -1,6 +1,4 @@
-# Leap
-
-[<img src="https://img.shields.io/badge/difficulty-easy-green">](https://t.me/learnrusttogether)
+# Leap :shrimp:
 
 Given a year, report if it is a leap year.
 
